@@ -1,2 +1,2 @@
 # Repositorio-para-el-diplomado
-El repositorio que pidió la profesora a los chicos contribuidores
+El repositorio de prueba que solicito la profesora a los chicos contribuidores
